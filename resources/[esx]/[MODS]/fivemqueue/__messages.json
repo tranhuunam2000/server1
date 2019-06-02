@@ -1,0 +1,14 @@
+﻿{
+  "Gathering": "Thu thập thông tin hàng chờ",
+  "License": "Cần có giấy phép",
+  "Steam": "Steam is required",
+  "Banned": "Bạn đã bị cấm",
+  "Whitelist": "Bạn không có trong whitelist",
+  "Queue": "Bạn đang xếp hàng",
+  "PriorityQueue": "Bạn đang xếp hàng ưu tiên",
+  "Canceled": "Đã hủy khỏi hàng đợi",
+  "Error": "An error prevented deferrals",
+  "Timeout": "Quá thời gian kết nối",
+  "QueueCount": "[Queue: {0}]",
+  "Symbols": "Không có ký hiệu hoặc khoảng trắng liên tiếp được cho phép trong tên của bạn"
+}
